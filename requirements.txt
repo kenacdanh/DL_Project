@@ -1,0 +1,13 @@
+opencv-python
+torch
+torchvision
+torchaudio
+scikit-learn
+easyocr
+flask
+flask-socketio
+Flask-RESTful
+Flask-Cors
+sqlite3
+logging
+requests
